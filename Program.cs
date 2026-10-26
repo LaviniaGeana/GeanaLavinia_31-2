@@ -137,7 +137,7 @@ namespace ExtragereCuvinte
 
                 finalOutputLines.Add("");
                 vectorIndex++;
-             
+
 
             }
 
@@ -153,7 +153,7 @@ namespace ExtragereCuvinte
             }
 
             Console.WriteLine($"\n  salvat în fișier: 'rezultat_final.txt'");
-            
+
             Console.ReadLine();
         }
 
